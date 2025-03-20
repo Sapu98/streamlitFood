@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 # GitHub Configuration
-GITHUB_TOKEN1 = "ghp_tKJMlnBlpxtk75K"
-GITHUB_TOKEN2 = "bmWQNjJTIW40HeV1jGcrg"
+GITHUB_TOKEN1 = "ghp_d4O4fRlt57kLoQr"
+GITHUB_TOKEN2 = "lmjG8R7nijddBJl46IGj1"
 GITHUB_TOKEN = GITHUB_TOKEN1 + GITHUB_TOKEN2
 GITHUB_REPO = "FrancDeps/food_nutrition_calculator"
 GITHUB_FOLDER = "daily_logs"
