@@ -1,188 +1,1208 @@
-{
-    "pollo": {
-        "calorie": 165,
-        "proteine": 31,
-        "carboidrati": 0,
-        "grassi": 3.6
+[
+    {
+        "name": "chicken",
+        "Proteins": 27,
+        "Carbohydrates": 0,
+        "Fats": 3.6
     },
-    "riso": {
-        "calorie": 130,
-        "proteine": 2.7,
-        "carboidrati": 28,
-        "grassi": 0.3
+    {
+        "name": "turkey",
+        "Proteins": 29,
+        "Carbohydrates": 0,
+        "Fats": 1
     },
-    "mela": {
-        "calorie": 52,
-        "proteine": 0.3,
-        "carboidrati": 14,
-        "grassi": 0.2
+    {
+        "name": "beef",
+        "Proteins": 26,
+        "Carbohydrates": 0,
+        "Fats": 15
     },
-    "pane": {
-        "calorie": 265,
-        "proteine": 9,
-        "carboidrati": 49,
-        "grassi": 3.2
+    {
+        "name": "eggs",
+        "Proteins": 13,
+        "Carbohydrates": 1,
+        "Fats": 11
     },
-    "pasta": {
-        "calorie": 157,
-        "proteine": 5.8,
-        "carboidrati": 30.7,
-        "grassi": 0.9
+    {
+        "name": "tuna",
+        "Proteins": 25,
+        "Carbohydrates": 0,
+        "Fats": 1
     },
-    "manzo": {
-        "calorie": 250,
-        "proteine": 26,
-        "carboidrati": 0,
-        "grassi": 17
+    {
+        "name": "salmon",
+        "Proteins": 22,
+        "Carbohydrates": 0,
+        "Fats": 13
     },
-    "salmone": {
-        "calorie": 208,
-        "proteine": 20,
-        "carboidrati": 0,
-        "grassi": 13
+    {
+        "name": "cod",
+        "Proteins": 20,
+        "Carbohydrates": 0,
+        "Fats": 0.7
     },
-    "patate": {
-        "calorie": 77,
-        "proteine": 2,
-        "carboidrati": 17,
-        "grassi": 0.1
+    {
+        "name": "mackerel",
+        "Proteins": 19,
+        "Carbohydrates": 0,
+        "Fats": 13
     },
-    "uova": {
-        "calorie": 155,
-        "proteine": 13,
-        "carboidrati": 1.1,
-        "grassi": 11
+    {
+        "name": "bresaola",
+        "Proteins": 32,
+        "Carbohydrates": 0,
+        "Fats": 2
     },
-    "latte": {
-        "calorie": 42,
-        "proteine": 3.4,
-        "carboidrati": 5,
-        "grassi": 1
+    {
+        "name": "ham",
+        "Proteins": 21,
+        "Carbohydrates": 0,
+        "Fats": 6
     },
-    "yogurt": {
-        "calorie": 59,
-        "proteine": 3.5,
-        "carboidrati": 7.7,
-        "grassi": 1.5
+    {
+        "name": "ricotta",
+        "Proteins": 11,
+        "Carbohydrates": 3,
+        "Fats": 10
     },
-    "formaggio": {
-        "calorie": 402,
-        "proteine": 25,
-        "carboidrati": 1.3,
-        "grassi": 33
+    {
+        "name": "yogurt",
+        "Proteins": 10,
+        "Carbohydrates": 4,
+        "Fats": 0
     },
-    "mandorle": {
-        "calorie": 579,
-        "proteine": 21,
-        "carboidrati": 22,
-        "grassi": 50
+    {
+        "name": "milk",
+        "Proteins": 3,
+        "Carbohydrates": 5,
+        "Fats": 1
     },
-    "noci": {
-        "calorie": 654,
-        "proteine": 15,
-        "carboidrati": 14,
-        "grassi": 65
+    {
+        "name": "tofu",
+        "Proteins": 8,
+        "Carbohydrates": 2,
+        "Fats": 4
     },
-    "nocciole": {
-        "calorie": 628,
-        "proteine": 15,
-        "carboidrati": 17,
-        "grassi": 61
+    {
+        "name": "tempeh",
+        "Proteins": 19,
+        "Carbohydrates": 9,
+        "Fats": 11
     },
-    "cioccolato fondente": {
-        "calorie": 546,
-        "proteine": 4.9,
-        "carboidrati": 61,
-        "grassi": 31
+    {
+        "name": "seitan",
+        "Proteins": 25,
+        "Carbohydrates": 8,
+        "Fats": 1
     },
-    "banane": {
-        "calorie": 89,
-        "proteine": 1.1,
-        "carboidrati": 23,
-        "grassi": 0.3
+    {
+        "name": "chickpeas",
+        "Proteins": 19,
+        "Carbohydrates": 61,
+        "Fats": 6
     },
-    "fragole": {
-        "calorie": 32,
-        "proteine": 0.7,
-        "carboidrati": 7.7,
-        "grassi": 0.3
+    {
+        "name": "lentils",
+        "Proteins": 9,
+        "Carbohydrates": 20,
+        "Fats": 0.4
     },
-    "ananas": {
-        "calorie": 50,
-        "proteine": 0.5,
-        "carboidrati": 13,
-        "grassi": 0.1
+    {
+        "name": "beans",
+        "Proteins": 7,
+        "Carbohydrates": 21,
+        "Fats": 0.5
     },
-    "arance": {
-        "calorie": 47,
-        "proteine": 0.9,
-        "carboidrati": 12,
-        "grassi": 0.1
+    {
+        "name": "peas",
+        "Proteins": 5,
+        "Carbohydrates": 14,
+        "Fats": 0.4
     },
-    "carote": {
-        "calorie": 41,
-        "proteine": 0.9,
-        "carboidrati": 10,
-        "grassi": 0.2
+    {
+        "name": "rice",
+        "Proteins": 7,
+        "Carbohydrates": 77,
+        "Fats": 1
     },
-    "pomodori": {
-        "calorie": 18,
-        "proteine": 0.9,
-        "carboidrati": 3.9,
-        "grassi": 0.2
+    {
+        "name": "quinoa",
+        "Proteins": 14,
+        "Carbohydrates": 64,
+        "Fats": 6
     },
-    "cetrioli": {
-        "calorie": 16,
-        "proteine": 0.7,
-        "carboidrati": 3.6,
-        "grassi": 0.1
+    {
+        "name": "spelt",
+        "Proteins": 15,
+        "Carbohydrates": 70,
+        "Fats": 2.5
     },
-    "lenticchie": {
-        "calorie": 116,
-        "proteine": 9,
-        "carboidrati": 20,
-        "grassi": 0.4
+    {
+        "name": "oats",
+        "Proteins": 13,
+        "Carbohydrates": 66,
+        "Fats": 6
     },
-    "ceci": {
-        "calorie": 164,
-        "proteine": 8.9,
-        "carboidrati": 27,
-        "grassi": 2.6
+    {
+        "name": "bread",
+        "Proteins": 9,
+        "Carbohydrates": 49,
+        "Fats": 4
     },
-    "fagioli": {
-        "calorie": 127,
-        "proteine": 8.7,
-        "carboidrati": 22,
-        "grassi": 0.5
+    {
+        "name": "pasta",
+        "Proteins": 13,
+        "Carbohydrates": 75,
+        "Fats": 1.5
     },
-    "piselli": {
-        "calorie": 81,
-        "proteine": 5.4,
-        "carboidrati": 14.5,
-        "grassi": 0.4
+    {
+        "name": "sweet potatoes",
+        "Proteins": 2,
+        "Carbohydrates": 20,
+        "Fats": 0.1
     },
-    "spinaci": {
-        "calorie": 23,
-        "proteine": 2.9,
-        "carboidrati": 3.6,
-        "grassi": 0.4
+    {
+        "name": "potatoes",
+        "Proteins": 2,
+        "Carbohydrates": 17,
+        "Fats": 0.1
     },
-    "broccoli": {
-        "calorie": 34,
-        "proteine": 2.8,
-        "carboidrati": 6.6,
-        "grassi": 0.4
+    {
+        "name": "barley",
+        "Proteins": 12,
+        "Carbohydrates": 73,
+        "Fats": 2
     },
-    "peperoni": {
-        "calorie": 31,
-        "proteine": 1,
-        "carboidrati": 6,
-        "grassi": 0.3
+    {
+        "name": "buckwheat",
+        "Proteins": 13,
+        "Carbohydrates": 72,
+        "Fats": 3
     },
-    "zucchine": {
-        "calorie": 17,
-        "proteine": 1.2,
-        "carboidrati": 3.1,
-        "grassi": 0.3
+    {
+        "name": "corn",
+        "Proteins": 9,
+        "Carbohydrates": 74,
+        "Fats": 4
+    },
+    {
+        "name": "spinach",
+        "Proteins": 3,
+        "Carbohydrates": 4,
+        "Fats": 0.4
+    },
+    {
+        "name": "broccoli",
+        "Proteins": 3,
+        "Carbohydrates": 7,
+        "Fats": 0.4
+    },
+    {
+        "name": "zucchini",
+        "Proteins": 1,
+        "Carbohydrates": 3,
+        "Fats": 0.1
+    },
+    {
+        "name": "asparagus",
+        "Proteins": 2,
+        "Carbohydrates": 3,
+        "Fats": 0.2
+    },
+    {
+        "name": "cauliflower",
+        "Proteins": 2,
+        "Carbohydrates": 5,
+        "Fats": 0.3
+    },
+    {
+        "name": "carrots",
+        "Proteins": 1,
+        "Carbohydrates": 10,
+        "Fats": 0.2
+    },
+    {
+        "name": "peppers",
+        "Proteins": 1,
+        "Carbohydrates": 6,
+        "Fats": 0.2
+    },
+    {
+        "name": "eggplant",
+        "Proteins": 1,
+        "Carbohydrates": 6,
+        "Fats": 0.2
+    },
+    {
+        "name": "tomatoes",
+        "Proteins": 1,
+        "Carbohydrates": 3,
+        "Fats": 0.2
+    },
+    {
+        "name": "lettuce",
+        "Proteins": 1,
+        "Carbohydrates": 2,
+        "Fats": 0.1
+    },
+    {
+        "name": "mushrooms",
+        "Proteins": 3,
+        "Carbohydrates": 3,
+        "Fats": 0.1
+    },
+    {
+        "name": "cucumbers",
+        "Proteins": 1,
+        "Carbohydrates": 4,
+        "Fats": 0.1
+    },
+    {
+        "name": "radicchio",
+        "Proteins": 1,
+        "Carbohydrates": 3,
+        "Fats": 0.2
+    },
+    {
+        "name": "fennel",
+        "Proteins": 1,
+        "Carbohydrates": 7,
+        "Fats": 0.2
+    },
+    {
+        "name": "cabbage",
+        "Proteins": 2,
+        "Carbohydrates": 6,
+        "Fats": 0.1
+    },
+    {
+        "name": "apples",
+        "Proteins": 0.3,
+        "Carbohydrates": 14,
+        "Fats": 0.2
+    },
+    {
+        "name": "pears",
+        "Proteins": 0.4,
+        "Carbohydrates": 15,
+        "Fats": 0.2
+    },
+    {
+        "name": "lamb",
+        "Proteins": 25,
+        "Carbohydrates": 0,
+        "Fats": 20
+    },
+    {
+        "name": "rabbit",
+        "Proteins": 22,
+        "Carbohydrates": 0,
+        "Fats": 5
+    },
+    {
+        "name": "horse meat",
+        "Proteins": 28,
+        "Carbohydrates": 0,
+        "Fats": 4
+    },
+    {
+        "name": "quail",
+        "Proteins": 25,
+        "Carbohydrates": 0,
+        "Fats": 12
+    },
+    {
+        "name": "duck",
+        "Proteins": 19,
+        "Carbohydrates": 0,
+        "Fats": 15
+    },
+    {
+        "name": "clams",
+        "Proteins": 14,
+        "Carbohydrates": 3,
+        "Fats": 1.5
+    },
+    {
+        "name": "shrimp",
+        "Proteins": 20,
+        "Carbohydrates": 0,
+        "Fats": 1
+    },
+    {
+        "name": "cuttlefish",
+        "Proteins": 18,
+        "Carbohydrates": 2,
+        "Fats": 1
+    },
+    {
+        "name": "octopus",
+        "Proteins": 16,
+        "Carbohydrates": 4,
+        "Fats": 1
+    },
+    {
+        "name": "crab",
+        "Proteins": 19,
+        "Carbohydrates": 0,
+        "Fats": 1
+    },
+    {
+        "name": "mussels",
+        "Proteins": 12,
+        "Carbohydrates": 3,
+        "Fats": 2
+    },
+    {
+        "name": "sardines",
+        "Proteins": 24,
+        "Carbohydrates": 0,
+        "Fats": 11
+    },
+    {
+        "name": "anchovies",
+        "Proteins": 20,
+        "Carbohydrates": 0,
+        "Fats": 10
+    },
+    {
+        "name": "trout",
+        "Proteins": 22,
+        "Carbohydrates": 0,
+        "Fats": 7
+    },
+    {
+        "name": "halibut",
+        "Proteins": 20,
+        "Carbohydrates": 0,
+        "Fats": 5
+    },
+    {
+        "name": "oysters",
+        "Proteins": 10,
+        "Carbohydrates": 6,
+        "Fats": 2
+    },
+    {
+        "name": "lobster",
+        "Proteins": 19,
+        "Carbohydrates": 1,
+        "Fats": 1
+    },
+    {
+        "name": "fish roe",
+        "Proteins": 25,
+        "Carbohydrates": 4,
+        "Fats": 10
+    },
+    {
+        "name": "soy",
+        "Proteins": 36,
+        "Carbohydrates": 30,
+        "Fats": 20
+    },
+    {
+        "name": "lupins",
+        "Proteins": 36,
+        "Carbohydrates": 40,
+        "Fats": 10
+    },
+    {
+        "name": "bulgur",
+        "Proteins": 12,
+        "Carbohydrates": 76,
+        "Fats": 1.5
+    },
+    {
+        "name": "couscous",
+        "Proteins": 13,
+        "Carbohydrates": 77,
+        "Fats": 0.6
+    },
+    {
+        "name": "amaranth",
+        "Proteins": 14,
+        "Carbohydrates": 65,
+        "Fats": 7
+    },
+    {
+        "name": "teff",
+        "Proteins": 13,
+        "Carbohydrates": 70,
+        "Fats": 2.5
+    },
+    {
+        "name": "beans",
+        "Proteins": 7,
+        "Carbohydrates": 21,
+        "Fats": 0.5
+    },
+    {
+        "name": "millet",
+        "Proteins": 11,
+        "Carbohydrates": 72,
+        "Fats": 4
+    },
+    {
+        "name": "kamut",
+        "Proteins": 15,
+        "Carbohydrates": 70,
+        "Fats": 2
+    },
+    {
+        "name": "rye",
+        "Proteins": 9,
+        "Carbohydrates": 75,
+        "Fats": 2
+    },
+    {
+        "name": "tapioca",
+        "Proteins": 0,
+        "Carbohydrates": 88,
+        "Fats": 0.2
+    },
+    {
+        "name": "red rice",
+        "Proteins": 8,
+        "Carbohydrates": 74,
+        "Fats": 2
+    },
+    {
+        "name": "black rice",
+        "Proteins": 9,
+        "Carbohydrates": 72,
+        "Fats": 3
+    },
+    {
+        "name": "wild rice",
+        "Proteins": 14,
+        "Carbohydrates": 75,
+        "Fats": 1
+    },
+    {
+        "name": "chickpea flour",
+        "Proteins": 22,
+        "Carbohydrates": 58,
+        "Fats": 6
+    },
+    {
+        "name": "chestnuts (dried)",
+        "Proteins": 6,
+        "Carbohydrates": 84,
+        "Fats": 2
+    },
+    {
+        "name": "polenta",
+        "Proteins": 8,
+        "Carbohydrates": 75,
+        "Fats": 1
+    },
+    {
+        "name": "barley",
+        "Proteins": 12,
+        "Carbohydrates": 73,
+        "Fats": 2
+    },
+    {
+        "name": "whole wheat bran",
+        "Proteins": 15,
+        "Carbohydrates": 65,
+        "Fats": 5
+    },
+    {
+        "name": "whole wheat crackers",
+        "Proteins": 10,
+        "Carbohydrates": 60,
+        "Fats": 4
+    },
+    {
+        "name": "whole wheat breadsticks",
+        "Proteins": 12,
+        "Carbohydrates": 65,
+        "Fats": 5
+    },
+    {
+        "name": "rice cakes",
+        "Proteins": 7,
+        "Carbohydrates": 80,
+        "Fats": 1
+    },
+    {
+        "name": "pumpkin",
+        "Proteins": 1,
+        "Carbohydrates": 7,
+        "Fats": 0.1
+    },
+    {
+        "name": "wasabi",
+        "Proteins": 4,
+        "Carbohydrates": 20,
+        "Fats": 0.6
+    },
+    {
+        "name": "hot dog",
+        "Proteins": 11,
+        "Carbohydrates": 2,
+        "Fats": 30
+    },
+    {
+        "name": "hamburger",
+        "Proteins": 14,
+        "Carbohydrates": 31,
+        "Fats": 12
+    },
+    {
+        "name": "pizza",
+        "Proteins": 12,
+        "Carbohydrates": 35,
+        "Fats": 10
+    },
+    {
+        "name": "lasagna",
+        "Proteins": 10,
+        "Carbohydrates": 40,
+        "Fats": 8
+    },
+    {
+        "name": "french fries",
+        "Proteins": 3,
+        "Carbohydrates": 41,
+        "Fats": 17
+    },
+    {
+        "name": "potato chips",
+        "Proteins": 7,
+        "Carbohydrates": 50,
+        "Fats": 35
+    },
+    {
+        "name": "popcorn",
+        "Proteins": 4,
+        "Carbohydrates": 78,
+        "Fats": 4
+    },
+    {
+        "name": "chicken nuggets",
+        "Proteins": 15,
+        "Carbohydrates": 18,
+        "Fats": 22
+    },
+    {
+        "name": "fish sticks",
+        "Proteins": 12,
+        "Carbohydrates": 25,
+        "Fats": 15
+    },
+    {
+        "name": "bacon",
+        "Proteins": 37,
+        "Carbohydrates": 1,
+        "Fats": 42
+    },
+    {
+        "name": "salami",
+        "Proteins": 22,
+        "Carbohydrates": 1,
+        "Fats": 30
+    },
+    {
+        "name": "mortadella",
+        "Proteins": 15,
+        "Carbohydrates": 2,
+        "Fats": 28
+    },
+    {
+        "name": "sausages",
+        "Proteins": 18,
+        "Carbohydrates": 2,
+        "Fats": 31
+    },
+    {
+        "name": "cheddar cheese",
+        "Proteins": 25,
+        "Carbohydrates": 2,
+        "Fats": 33
+    },
+    {
+        "name": "mozzarella",
+        "Proteins": 22,
+        "Carbohydrates": 3,
+        "Fats": 18
+    },
+    {
+        "name": "parmesan",
+        "Proteins": 35,
+        "Carbohydrates": 3,
+        "Fats": 28
+    },
+    {
+        "name": "butter",
+        "Proteins": 1,
+        "Carbohydrates": 0,
+        "Fats": 81
+    },
+    {
+        "name": "margarine",
+        "Proteins": 0,
+        "Carbohydrates": 0,
+        "Fats": 80
+    },
+    {
+        "name": "mayonnaise",
+        "Proteins": 1,
+        "Carbohydrates": 5,
+        "Fats": 75
+    },
+    {
+        "name": "ketchup",
+        "Proteins": 1,
+        "Carbohydrates": 25,
+        "Fats": 0
+    },
+    {
+        "name": "mustard",
+        "Proteins": 5,
+        "Carbohydrates": 6,
+        "Fats": 10
+    },
+    {
+        "name": "soy sauce",
+        "Proteins": 8,
+        "Carbohydrates": 5,
+        "Fats": 0
+    },
+    {
+        "name": "barbecue sauce",
+        "Proteins": 2,
+        "Carbohydrates": 30,
+        "Fats": 1
+    },
+    {
+        "name": "honey",
+        "Proteins": 0,
+        "Carbohydrates": 82,
+        "Fats": 0
+    },
+    {
+        "name": "jam",
+        "Proteins": 0,
+        "Carbohydrates": 70,
+        "Fats": 0
+    },
+    {
+        "name": "nutella",
+        "Proteins": 6,
+        "Carbohydrates": 57,
+        "Fats": 31
+    },
+    {
+        "name": "peanut butter",
+        "Proteins": 25,
+        "Carbohydrates": 20,
+        "Fats": 50
+    },
+    {
+        "name": "ice cream",
+        "Proteins": 4,
+        "Carbohydrates": 23,
+        "Fats": 11
+    },
+    {
+        "name": "chocolate milk",
+        "Proteins": 8,
+        "Carbohydrates": 25,
+        "Fats": 4
+    },
+    {
+        "name": "cookies",
+        "Proteins": 5,
+        "Carbohydrates": 70,
+        "Fats": 20
+    },
+    {
+        "name": "croissant",
+        "Proteins": 6,
+        "Carbohydrates": 45,
+        "Fats": 25
+    },
+    {
+        "name": "donut",
+        "Proteins": 5,
+        "Carbohydrates": 50,
+        "Fats": 22
+    },
+    {
+        "name": "cereal",
+        "Proteins": 7,
+        "Carbohydrates": 78,
+        "Fats": 6
+    },
+    {
+        "name": "granola",
+        "Proteins": 10,
+        "Carbohydrates": 65,
+        "Fats": 15
+    },
+    {
+        "name": "energy bar",
+        "Proteins": 15,
+        "Carbohydrates": 45,
+        "Fats": 10
+    },
+    {
+        "name": "Proteins shake",
+        "Proteins": 25,
+        "Carbohydrates": 30,
+        "Fats": 5
+    },
+    {
+        "name": "whole milk",
+        "Proteins": 3,
+        "Carbohydrates": 5,
+        "Fats": 8
+    },
+    {
+        "name": "condensed milk",
+        "Proteins": 8,
+        "Carbohydrates": 55,
+        "Fats": 10
+    },
+    {
+        "name": "evaporated milk",
+        "Proteins": 7,
+        "Carbohydrates": 10,
+        "Fats": 7
+    },
+    {
+        "name": "rice pudding",
+        "Proteins": 3,
+        "Carbohydrates": 20,
+        "Fats": 5
+    },
+    {
+        "name": "custard",
+        "Proteins": 5,
+        "Carbohydrates": 15,
+        "Fats": 6
+    },
+    {
+        "name": "cheesecake",
+        "Proteins": 8,
+        "Carbohydrates": 30,
+        "Fats": 25
+    },
+    {
+        "name": "tiramisu",
+        "Proteins": 6,
+        "Carbohydrates": 45,
+        "Fats": 25
+    },
+    {
+        "name": "pancakes",
+        "Proteins": 7,
+        "Carbohydrates": 55,
+        "Fats": 10
+    },
+    {
+        "name": "waffles",
+        "Proteins": 6,
+        "Carbohydrates": 50,
+        "Fats": 12
+    },
+    {
+        "name": "crackers",
+        "Proteins": 6,
+        "Carbohydrates": 70,
+        "Fats": 10
+    },
+    {
+        "name": "breadsticks",
+        "Proteins": 8,
+        "Carbohydrates": 65,
+        "Fats": 5
+    },
+    {
+        "name": "baguette",
+        "Proteins": 9,
+        "Carbohydrates": 55,
+        "Fats": 2
+    },
+    {
+        "name": "white bread",
+        "Proteins": 8,
+        "Carbohydrates": 50,
+        "Fats": 3
+    },
+    {
+        "name": "whole wheat bread",
+        "Proteins": 10,
+        "Carbohydrates": 45,
+        "Fats": 4
+    },
+    {
+        "name": "brownie",
+        "Proteins": 4,
+        "Carbohydrates": 50,
+        "Fats": 22
+    },
+    {
+        "name": "apple pie",
+        "Proteins": 3,
+        "Carbohydrates": 40,
+        "Fats": 15
+    },
+    {
+        "name": "shortbread",
+        "Proteins": 4,
+        "Carbohydrates": 50,
+        "Fats": 30
+    },
+    {
+        "name": "muffin",
+        "Proteins": 5,
+        "Carbohydrates": 55,
+        "Fats": 15
+    },
+    {
+        "name": "carrot cake",
+        "Proteins": 6,
+        "Carbohydrates": 50,
+        "Fats": 18
+    },
+    {
+        "name": "yogurt with fruit",
+        "Proteins": 6,
+        "Carbohydrates": 20,
+        "Fats": 4
+    },
+    {
+        "name": "pasta with sauce",
+        "Proteins": 8,
+        "Carbohydrates": 60,
+        "Fats": 5
+    },
+    {
+        "name": "instant noodles",
+        "Proteins": 7,
+        "Carbohydrates": 65,
+        "Fats": 15
+    },
+    {
+        "name": "duck liver (foie gras)",
+        "Proteins": 14,
+        "Carbohydrates": 1,
+        "Fats": 56
+    },
+    {
+        "name": "rabbit liver",
+        "Proteins": 18,
+        "Carbohydrates": 2,
+        "Fats": 5
+    },
+    {
+        "name": "venison",
+        "Proteins": 30,
+        "Carbohydrates": 0,
+        "Fats": 4
+    },
+    {
+        "name": "pheasant",
+        "Proteins": 25,
+        "Carbohydrates": 0,
+        "Fats": 6
+    },
+    {
+        "name": "goat meat",
+        "Proteins": 27,
+        "Carbohydrates": 0,
+        "Fats": 9
+    },
+    {
+        "name": "quail eggs",
+        "Proteins": 13,
+        "Carbohydrates": 1,
+        "Fats": 11
+    },
+    {
+        "name": "eel",
+        "Proteins": 18,
+        "Carbohydrates": 0,
+        "Fats": 20
+    },
+    {
+        "name": "catfish",
+        "Proteins": 15,
+        "Carbohydrates": 0,
+        "Fats": 12
+    },
+    {
+        "name": "snapper",
+        "Proteins": 20,
+        "Carbohydrates": 0,
+        "Fats": 5
+    },
+    {
+        "name": "mullet",
+        "Proteins": 19,
+        "Carbohydrates": 0,
+        "Fats": 4
+    },
+    {
+        "name": "barramundi",
+        "Proteins": 21,
+        "Carbohydrates": 0,
+        "Fats": 3
+    },
+    {
+        "name": "herring",
+        "Proteins": 18,
+        "Carbohydrates": 0,
+        "Fats": 9
+    },
+    {
+        "name": "tilapia",
+        "Proteins": 20,
+        "Carbohydrates": 0,
+        "Fats": 2
+    },
+    {
+        "name": "smoked salmon",
+        "Proteins": 22,
+        "Carbohydrates": 0,
+        "Fats": 12
+    },
+    {
+        "name": "clotted cream",
+        "Proteins": 3,
+        "Carbohydrates": 2,
+        "Fats": 55
+    },
+    {
+        "name": "goat cheese",
+        "Proteins": 21,
+        "Carbohydrates": 2,
+        "Fats": 25
+    },
+    {
+        "name": "blue cheese",
+        "Proteins": 20,
+        "Carbohydrates": 3,
+        "Fats": 30
+    },
+    {
+        "name": "brie",
+        "Proteins": 18,
+        "Carbohydrates": 1,
+        "Fats": 29
+    },
+    {
+        "name": "feta cheese",
+        "Proteins": 14,
+        "Carbohydrates": 4,
+        "Fats": 21
+    },
+    {
+        "name": "halloumi",
+        "Proteins": 21,
+        "Carbohydrates": 2,
+        "Fats": 26
+    },
+    {
+        "name": "oat milk",
+        "Proteins": 3,
+        "Carbohydrates": 8,
+        "Fats": 2
+    },
+    {
+        "name": "hazelnut milk",
+        "Proteins": 1,
+        "Carbohydrates": 5,
+        "Fats": 2
+    },
+    {
+        "name": "pecan butter",
+        "Proteins": 9,
+        "Carbohydrates": 18,
+        "Fats": 72
+    },
+    {
+        "name": "tahini",
+        "Proteins": 17,
+        "Carbohydrates": 22,
+        "Fats": 53
+    },
+    {
+        "name": "date syrup",
+        "Proteins": 1,
+        "Carbohydrates": 75,
+        "Fats": 0
+    },
+    {
+        "name": "agave syrup",
+        "Proteins": 0,
+        "Carbohydrates": 76,
+        "Fats": 0
+    },
+    {
+        "name": "coconut sugar",
+        "Proteins": 0,
+        "Carbohydrates": 75,
+        "Fats": 0
+    },
+    {
+        "name": "molasses",
+        "Proteins": 0,
+        "Carbohydrates": 74,
+        "Fats": 0
+    },
+    {
+        "name": "spelt flour",
+        "Proteins": 13,
+        "Carbohydrates": 70,
+        "Fats": 2
+    },
+    {
+        "name": "rye flour",
+        "Proteins": 9,
+        "Carbohydrates": 75,
+        "Fats": 2
+    },
+    {
+        "name": "sourdough bread",
+        "Proteins": 9,
+        "Carbohydrates": 50,
+        "Fats": 2
+    },
+    {
+        "name": "rye bread",
+        "Proteins": 8,
+        "Carbohydrates": 55,
+        "Fats": 3
+    },
+    {
+        "name": "corn tortillas",
+        "Proteins": 6,
+        "Carbohydrates": 55,
+        "Fats": 2
+    },
+    {
+        "name": "whole wheat tortillas",
+        "Proteins": 9,
+        "Carbohydrates": 52,
+        "Fats": 3
+    },
+    {
+        "name": "spelt pasta",
+        "Proteins": 13,
+        "Carbohydrates": 70,
+        "Fats": 2
+    },
+    {
+        "name": "kamut pasta",
+        "Proteins": 14,
+        "Carbohydrates": 68,
+        "Fats": 2
+    },
+    {
+        "name": "barley flakes",
+        "Proteins": 12,
+        "Carbohydrates": 73,
+        "Fats": 2
+    },
+    {
+        "name": "wheat bran",
+        "Proteins": 16,
+        "Carbohydrates": 65,
+        "Fats": 4
+    },
+    {
+        "name": "buckwheat flour",
+        "Proteins": 13,
+        "Carbohydrates": 72,
+        "Fats": 3
+    },
+    {
+        "name": "prickly pear",
+        "Proteins": 1,
+        "Carbohydrates": 10,
+        "Fats": 0.5
+    },
+    {
+        "name": "starfruit",
+        "Proteins": 1,
+        "Carbohydrates": 6,
+        "Fats": 0.3
+    },
+    {
+        "name": "jackfruit",
+        "Proteins": 2,
+        "Carbohydrates": 23,
+        "Fats": 1
+    },
+    {
+        "name": "soursop",
+        "Proteins": 1,
+        "Carbohydrates": 17,
+        "Fats": 0.3
+    },
+    {
+        "name": "yuzu",
+        "Proteins": 1,
+        "Carbohydrates": 9,
+        "Fats": 0.3
+    },
+    {
+        "name": "pomelo",
+        "Proteins": 1,
+        "Carbohydrates": 9,
+        "Fats": 0.2
+    },
+    {
+        "name": "dragon fruit",
+        "Proteins": 1,
+        "Carbohydrates": 11,
+        "Fats": 0.4
+    },
+    {
+        "name": "longan",
+        "Proteins": 1,
+        "Carbohydrates": 15,
+        "Fats": 0.1
+    },
+    {
+        "name": "persimmon",
+        "Proteins": 1,
+        "Carbohydrates": 18,
+        "Fats": 0.3
+    },
+    {
+        "name": "lotus root",
+        "Proteins": 2,
+        "Carbohydrates": 17,
+        "Fats": 0.1
+    },
+    {
+        "name": "water chestnut",
+        "Proteins": 1,
+        "Carbohydrates": 24,
+        "Fats": 0.1
+    },
+    {
+        "name": "cassava",
+        "Proteins": 1,
+        "Carbohydrates": 38,
+        "Fats": 0.3
+    },
+    {
+        "name": "taro root",
+        "Proteins": 2,
+        "Carbohydrates": 27,
+        "Fats": 0.1
+    },
+    {
+        "name": "bamboo shoots",
+        "Proteins": 3,
+        "Carbohydrates": 6,
+        "Fats": 0.2
     }
-}
+]
