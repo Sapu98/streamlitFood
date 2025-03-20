@@ -7,7 +7,7 @@ from datetime import datetime
 
 # GitHub Configuration
 GITHUB_TOKEN1 = "ghp_d4O4fRlt57kLoQr"
-GITHUB_TOKEN2 = "lmjG8R7nijddBJl46IGj1"
+GITHUB_TOKEN2 = ""
 GITHUB_TOKEN = GITHUB_TOKEN1 + GITHUB_TOKEN2
 GITHUB_REPO = "Sapu98/streamlitFood"
 GITHUB_FOLDER = "daily_logs"
