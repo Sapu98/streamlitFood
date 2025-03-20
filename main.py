@@ -9,7 +9,7 @@ from datetime import datetime
 GITHUB_TOKEN1 = "ghp_d4O4fRlt57kLoQr"
 GITHUB_TOKEN2 = "lmjG8R7nijddBJl46IGj1"
 GITHUB_TOKEN = GITHUB_TOKEN1 + GITHUB_TOKEN2
-GITHUB_REPO = "FrancDeps/food_nutrition_calculator"
+GITHUB_REPO = "Sapu98/streamlitFood"
 GITHUB_FOLDER = "daily_logs"
 TODAY_DATE = datetime.today().strftime("%Y-%m-%d")
 GITHUB_FILE_PATH = f"{GITHUB_FOLDER}/{TODAY_DATE}.json"
