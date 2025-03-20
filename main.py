@@ -21,7 +21,8 @@ GITHUB_API_URL = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_F
 def load_food_database():
     try:
         with open("nutritional_data.json", "r") as file:
-            return json.load(file)  # Load food database
+            food_list = json.load(file)
+            return {item["name"]: item for item in food_list}  # Convert list to dictionary
     except FileNotFoundError:
         st.error("❌ Error: `nutritional_data.json` not found. Make sure the file is in the project folder.")
         return {}
