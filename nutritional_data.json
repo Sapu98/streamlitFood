@@ -1,0 +1,188 @@
+{
+    "pollo": {
+        "calorie": 165,
+        "proteine": 31,
+        "carboidrati": 0,
+        "grassi": 3.6
+    },
+    "riso": {
+        "calorie": 130,
+        "proteine": 2.7,
+        "carboidrati": 28,
+        "grassi": 0.3
+    },
+    "mela": {
+        "calorie": 52,
+        "proteine": 0.3,
+        "carboidrati": 14,
+        "grassi": 0.2
+    },
+    "pane": {
+        "calorie": 265,
+        "proteine": 9,
+        "carboidrati": 49,
+        "grassi": 3.2
+    },
+    "pasta": {
+        "calorie": 157,
+        "proteine": 5.8,
+        "carboidrati": 30.7,
+        "grassi": 0.9
+    },
+    "manzo": {
+        "calorie": 250,
+        "proteine": 26,
+        "carboidrati": 0,
+        "grassi": 17
+    },
+    "salmone": {
+        "calorie": 208,
+        "proteine": 20,
+        "carboidrati": 0,
+        "grassi": 13
+    },
+    "patate": {
+        "calorie": 77,
+        "proteine": 2,
+        "carboidrati": 17,
+        "grassi": 0.1
+    },
+    "uova": {
+        "calorie": 155,
+        "proteine": 13,
+        "carboidrati": 1.1,
+        "grassi": 11
+    },
+    "latte": {
+        "calorie": 42,
+        "proteine": 3.4,
+        "carboidrati": 5,
+        "grassi": 1
+    },
+    "yogurt": {
+        "calorie": 59,
+        "proteine": 3.5,
+        "carboidrati": 7.7,
+        "grassi": 1.5
+    },
+    "formaggio": {
+        "calorie": 402,
+        "proteine": 25,
+        "carboidrati": 1.3,
+        "grassi": 33
+    },
+    "mandorle": {
+        "calorie": 579,
+        "proteine": 21,
+        "carboidrati": 22,
+        "grassi": 50
+    },
+    "noci": {
+        "calorie": 654,
+        "proteine": 15,
+        "carboidrati": 14,
+        "grassi": 65
+    },
+    "nocciole": {
+        "calorie": 628,
+        "proteine": 15,
+        "carboidrati": 17,
+        "grassi": 61
+    },
+    "cioccolato fondente": {
+        "calorie": 546,
+        "proteine": 4.9,
+        "carboidrati": 61,
+        "grassi": 31
+    },
+    "banane": {
+        "calorie": 89,
+        "proteine": 1.1,
+        "carboidrati": 23,
+        "grassi": 0.3
+    },
+    "fragole": {
+        "calorie": 32,
+        "proteine": 0.7,
+        "carboidrati": 7.7,
+        "grassi": 0.3
+    },
+    "ananas": {
+        "calorie": 50,
+        "proteine": 0.5,
+        "carboidrati": 13,
+        "grassi": 0.1
+    },
+    "arance": {
+        "calorie": 47,
+        "proteine": 0.9,
+        "carboidrati": 12,
+        "grassi": 0.1
+    },
+    "carote": {
+        "calorie": 41,
+        "proteine": 0.9,
+        "carboidrati": 10,
+        "grassi": 0.2
+    },
+    "pomodori": {
+        "calorie": 18,
+        "proteine": 0.9,
+        "carboidrati": 3.9,
+        "grassi": 0.2
+    },
+    "cetrioli": {
+        "calorie": 16,
+        "proteine": 0.7,
+        "carboidrati": 3.6,
+        "grassi": 0.1
+    },
+    "lenticchie": {
+        "calorie": 116,
+        "proteine": 9,
+        "carboidrati": 20,
+        "grassi": 0.4
+    },
+    "ceci": {
+        "calorie": 164,
+        "proteine": 8.9,
+        "carboidrati": 27,
+        "grassi": 2.6
+    },
+    "fagioli": {
+        "calorie": 127,
+        "proteine": 8.7,
+        "carboidrati": 22,
+        "grassi": 0.5
+    },
+    "piselli": {
+        "calorie": 81,
+        "proteine": 5.4,
+        "carboidrati": 14.5,
+        "grassi": 0.4
+    },
+    "spinaci": {
+        "calorie": 23,
+        "proteine": 2.9,
+        "carboidrati": 3.6,
+        "grassi": 0.4
+    },
+    "broccoli": {
+        "calorie": 34,
+        "proteine": 2.8,
+        "carboidrati": 6.6,
+        "grassi": 0.4
+    },
+    "peperoni": {
+        "calorie": 31,
+        "proteine": 1,
+        "carboidrati": 6,
+        "grassi": 0.3
+    },
+    "zucchine": {
+        "calorie": 17,
+        "proteine": 1.2,
+        "carboidrati": 3.1,
+        "grassi": 0.3
+    }
+}
